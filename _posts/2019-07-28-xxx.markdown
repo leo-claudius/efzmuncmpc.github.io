@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "大事件"
+subtitle:   "暴走大事件 王尼玛"
+date:       2019-07-28
+author:     "El Tiempo"
+header-img: "https://imgchr.com/i/elasZq"
+tags:
+     -UNSC
+     -MPC
+     
+---
+
+实验文件。  
+
+换行实验。
+
+
