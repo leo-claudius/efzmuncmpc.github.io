@@ -1,0 +1,20 @@
+---
+
+layout:            post
+title:             "测试文件"
+subtitle:          "这是来自魏子荆的测试文件"
+date:              2019-07-30
+author:            "哥伦比亚时代报 魏子荆"
+header-img:        "https://imgchr.com/i/e8vvOP"
+tags:
+       -哥伦比亚时代报
+       -安理会
+       -魏子荆
+
+---
+
+这是一封测试文件，以在会期开始前测试是否可用。  
+如果看到了，请在QQ上给魏子荆回复。多谢！  
+如果没有看到我换行，请务必告诉我。  
+![hhhh]{https://imgchr.com/i/e8zRDx}  
+如果上面没有图片，或者图片出错，请务必告诉我。  
